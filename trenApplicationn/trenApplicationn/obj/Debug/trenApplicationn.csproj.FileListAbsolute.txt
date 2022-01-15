@@ -1,0 +1,10 @@
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\bin\Debug\trenApplicationn.exe.config
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\bin\Debug\trenApplicationn.exe
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\bin\Debug\trenApplicationn.pdb
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\obj\Debug\trenApplicationn.csprojAssemblyReference.cache
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\obj\Debug\trenApplicationn.Form1.resources
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\obj\Debug\trenApplicationn.Properties.Resources.resources
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\obj\Debug\trenApplicationn.csproj.GenerateResource.cache
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\obj\Debug\trenApplicationn.csproj.CoreCompileInputs.cache
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\obj\Debug\trenApplicationn.exe
+C:\Users\uluca\source\repos\trenApplicationn\trenApplicationn\obj\Debug\trenApplicationn.pdb
